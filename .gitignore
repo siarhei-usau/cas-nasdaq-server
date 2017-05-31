@@ -1,0 +1,33 @@
+# Repo and Build Config
+.tmp
+.svn
+.git
+.settings
+.idea
+.ideadist
+.gradle
+gradle
+gradlew
+gradlew.bat
+build
+dest
+repo
+
+# IDEA Files
+*.iml
+*.ipr
+*.iws
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
